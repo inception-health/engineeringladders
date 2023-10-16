@@ -71,5 +71,4 @@ Role responsible for coordinating and driving to completion initiatives that spa
 - [**Developer**](Developer.md)
 - [**Product Designer**](ProductDesigner.md)
 - [**Engineering Manager**](EngineeringManager.md)
-- [**Product Designer vs Engineering Manager**](ProductDesigner-EngineeringManager.md)
 - [**Managing Managers**](Managing-Managers.md)

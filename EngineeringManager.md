@@ -44,5 +44,4 @@ If you have other managers as direct reports, you might want to read the [Managi
 - [**Developer**](Developer.md)
 - [**Product Designer**](ProductDesigner.md)
 - [**Product Manager**](ProductManager.md)
-- [**Product Designer vs Engineering Manager**](ProductDesigner-EngineeringManager.md)
 - [**Managing Managers**](Managing-Managers.md)
