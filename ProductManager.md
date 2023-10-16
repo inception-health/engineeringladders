@@ -4,12 +4,12 @@ Role responsible for coordinating and driving to completion initiatives that spa
 
 | Level | Senior |                      Position                       |
 | :---: | :----: | :-------------------------------------------------: |
-|   3   |  Yes   | [PM4 - Program Manager 3](#pm4---product-manager-3) |
+|   3   |  Yes   | [PM4 - Program Manager 3](#pm3---product-manager-3) |
 |   4   |  Yes   | [PM4 - Program Manager 4](#pm4---product-manager-4) |
 |   5   |  Yes   | [PM5 - Program Manager 5](#pm5---product-manager-5) |
 |   6   |  Yes   | [PM6 - Program Manager 6](#pm6---product-manager-6) |
 
-## PM4 - Product Manager 3
+## PM3 - Product Manager 3
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/productmanager-3-dark.png">
