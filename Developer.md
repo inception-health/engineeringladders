@@ -29,8 +29,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## D2 - Developer 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/developer-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/developer-2.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/developer-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/developer-2.png"> -->
   <img alt="Developer 2" src="charts/developer-2.png">
 </picture>
 
