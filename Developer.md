@@ -96,20 +96,6 @@ Role also known as programmer or software engineer, requires a deep level of tec
 - **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 - **Company**: makes an impact on the whole tech organization
 
-## D7 - Developer 7
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
-  <img alt="Developer 7" src="/charts/developer-7.png">
-</picture>
-
-- **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-- **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-- **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-- **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-- **Community**: makes an impact on the tech community
-
 # Other Pages
 
 - [**Introduction**](README.md)

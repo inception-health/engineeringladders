@@ -29,7 +29,6 @@ The framework has 4 different ladders:
 |   4   |  Yes   | [D4](Developer.md#d4---developer-4) | [PD4](ProductDesigner.md#pd4---product-designer-4) | [PM4](ProductManager.md#pm4---product-manager-4) | [EM4](EngineeringManager.md#em4---engineering-manager-4) |
 |   5   |  Yes   | [D5](Developer.md#d5---developer-5) | [PD5](ProductDesigner.md#pd5---product-designer-5) | [PM5](ProductManager.md#pm5---product-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
 |   6   |  Yes   | [D6](Developer.md#d6---developer-6) | [PD6](ProductDesigner.md#pd6---product-designer-6) | [PM6](ProductManager.md#pm6---product-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-|   7   |  Yes   | [D7](Developer.md#d7---developer-7) | [PD7](ProductDesigner.md#pd7---product-designer-7) | [PM7](ProductManager.md#pm7---product-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 

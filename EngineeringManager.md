@@ -38,20 +38,6 @@ If you have other managers as direct reports, you might want to read the [Managi
 - **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 - **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## EM7 - Engineering Manager 7
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-7.png">
-  <img alt="Engineering Manager 7" src="/charts/engineeringmanager-7.png">
-</picture>
-
-- **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-- **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-- **Manages**: manages the team members' career, expectations, performance and level of happiness
-- **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-- **Multiple Teams**: makes an impact not only on the whole team but also on other teams
-
 # Other Pages
 
 - [**Introduction**](README.md)
