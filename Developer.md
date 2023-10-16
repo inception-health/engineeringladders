@@ -20,11 +20,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 1" src="charts/developer-1.png">
 </picture>
 
-- **Adopts**: actively learns and adopts the technology and tools defined by the team
-- **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-- **Learns**: quickly learns from others and consistently steps up when it is required
-- **Follows**: follows the team processes, delivering a consistent flow of features to production
-- **Subsystem**: makes an impact on one or more subsystems or team pods
+- **Expertise: Learns**: actively learns and adopts the technology and tools defined by the team
+- **System: Enhances**: successfully pushes new features and bug fixes to improve and extend the system
+- **People: Learns**: quickly learns from others and consistently steps up when it is required
+- **Process: Follows**: follows the team processes, delivering a consistent flow of features to production
+- **Influence: Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## D2 - Developer 2
 
@@ -34,11 +34,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 2" src="charts/developer-2.png">
 </picture>
 
-- **Adopts**: actively learns and adopts the technology and tools defined by the team
-- **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-- **Supports**: proactively supports other team members and helps them to be successful
-- **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-- **Subsystem**: makes an impact on one or more subsystems or team pods
+- **Expertise: Learns**: actively learns and adopts the technology and tools defined by the team
+- **System: Designs**: designs and implements medium to large size features while reducing the system's tech debt
+- **People: Supports**: proactively supports other team members and helps them to be successful
+- **Process: Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+- **Influence: Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## D3 - Developer 3
 
@@ -48,11 +48,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 3" src="charts/developer-3.png">
 </picture>
 
-- **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-- **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-- **Supports**: proactively supports other team members and helps them to be successful
-- **Challenges**: challenges the team processes, looking for ways to improve them
-- **Team**: makes an impact on the whole team, not just on specific parts of it
+- **Expertise: Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+- **System: Designs**: designs and implements medium to large size features while reducing the system's tech debt
+- **People: Supports**: proactively supports other team members and helps them to be successful
+- **Process: Challenges**: challenges the team processes, looking for ways to improve them
+- **Influence: Team**: makes an impact on the whole team, not just on specific parts of it
 
 ## D4 - Developer 4
 
@@ -62,11 +62,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 4" src="charts/developer-4.png">
 </picture>
 
-- **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-- **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-- **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-- **Challenges**: challenges the team processes, looking for ways to improve them
-- **Team**: makes an impact on the whole team, not just on specific parts of it
+- **Expertise: Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+- **System: Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
+- **People: Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+- **Process: Challenges**: challenges the team processes, looking for ways to improve them
+- **Influence: Team**: makes an impact on the whole team, not just on specific parts of it
 
 ## D5 - Developer 5
 
@@ -76,11 +76,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 5" src="charts/developer-5.png">
 </picture>
 
-- **Masters**: has very deep knowledge about the whole technology stack of the system
-- **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-- **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-- **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-- **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+- **Expertise: Masters**: has very deep knowledge about the whole technology stack of the system
+- **System: Evolves**: evolves the architecture to support future requirements and defines its SLAs
+- **People: Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+- **Process: Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+- **Influence: Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
 ## D6 - Developer 6
 
@@ -90,11 +90,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
   <img alt="Developer 6" src="charts/developer-6.png">
 </picture>
 
-- **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-- **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-- **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-- **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-- **Company**: makes an impact on the whole tech organization
+- **Expertise: Innovates**: designs and creates new technologies that are widely used either by internal or external teams
+- **System: Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+- **People: Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+- **Process: Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+- **Influence: Company**: makes an impact on the whole tech organization
 
 # Other Pages
 
