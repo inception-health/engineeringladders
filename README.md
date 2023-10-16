@@ -18,7 +18,7 @@ The framework has 4 different ladders:
 
 - [**Developer**](Developer.md): role requires a deep level of technical expertise
 - [**Product Designer**](ProductDesigner.md): role is responsible for the User Experience for the Product
-- [**Product Managerr**](ProductManager.md): role responsible for _what_ should be built. Is the **_Voice of the User_**
+- [**Product Manager**](ProductManager.md): role responsible for _what_ should be built. Is the **_Voice of the User_**
 - [**Engineering Manager**](EngineeringManager.md): role is responsible for the consistent delivery, career growth and level of happiness of the team
 
 | Level | Senior |      [Developer](Developer.md)      |       [Product Designer](ProductDesigner.md)       |       [Product Manager](ProductManager.md)       |       [Engineering Manager](EngineeringManager.md)       |

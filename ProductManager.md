@@ -83,7 +83,7 @@ Role responsible for coordinating and driving to completion initiatives that spa
 
 - [**Introduction**](README.md)
 - [**Developer**](Developer.md)
-- [**Tech Lead**](TechLead.md)
+- [**Product Designer**](ProductDesigner.md)
 - [**Engineering Manager**](EngineeringManager.md)
-- [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+- [**Product Designer vs Engineering Manager**](ProductDesigner-EngineeringManager.md)
 - [**Managing Managers**](Managing-Managers.md)
