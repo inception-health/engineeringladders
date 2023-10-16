@@ -14,8 +14,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD1 - Product Designer 1
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-1.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-1-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-1.png"> -->
   <img alt="Product Designer 1" src="charts/designer-1.png">
 </picture>
 
@@ -28,8 +28,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD2 - Product Designer 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-2.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-2.png"> -->
   <img alt="Product Designer 2" src="charts/designer-2.png">
 </picture>
 
@@ -42,8 +42,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD3 - Product Designer 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-3.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-3-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-3.png"> -->
   <img alt="Product Designer 3" src="charts/designer-3.png">
 </picture>
 
@@ -56,8 +56,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD4 - Product Designer 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-4.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-4.png"> -->
   <img alt="Product Designer 4" src="charts/designer-4.png">
 </picture>
 
@@ -70,8 +70,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD5 - Product Designer 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-5.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-5.png"> -->
   <img alt="Product Designer 5" src="charts/designer-5.png">
 </picture>
 
