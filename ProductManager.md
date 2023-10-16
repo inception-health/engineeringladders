@@ -12,8 +12,8 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## PM3 - Product Manager 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-3.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-3-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-3.png"> -->
   <img alt="Product Manager 3" src="charts/productmanager-3.png">
 </picture>
 
@@ -26,8 +26,8 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## PM4 - Product Manager 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-4.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-4.png"> -->
   <img alt="Product Manager 4" src="charts/productmanager-4.png">
 </picture>
 
@@ -40,8 +40,8 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## PM5 - Product Manager 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-5.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-5.png"> -->
   <img alt="Product Manager 5" src="charts/productmanager-5.png">
 </picture>
 
@@ -54,8 +54,8 @@ Role responsible for coordinating and driving to completion initiatives that spa
 ## PM6 - Product Manager 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-6.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/productmanager-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/productmanager-6.png"> -->
   <img alt="Product Manager 6" src="charts/productmanager-6.png">
 </picture>
 

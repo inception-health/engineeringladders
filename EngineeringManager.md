@@ -13,8 +13,8 @@ If you have other managers as direct reports, you might want to read the [Managi
 ## EM5 - Engineering Manager 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/engineeringmanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/engineeringmanager-5.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/engineeringmanager-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/engineeringmanager-5.png"> -->
   <img alt="Engineering Manager 5" src="charts/engineeringmanager-5.png">
 </picture>
 
@@ -27,8 +27,8 @@ If you have other managers as direct reports, you might want to read the [Managi
 ## EM6 - Engineering Manager 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/engineeringmanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/engineeringmanager-6.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/engineeringmanager-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/engineeringmanager-6.png"> -->
   <img alt="Engineering Manager 6" src="charts/engineeringmanager-6.png">
 </picture>
 

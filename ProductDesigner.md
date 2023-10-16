@@ -84,8 +84,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ## PD6 - Product Designer 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="charts/designer-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/designer-6.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="charts/designer-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="charts/designer-6.png"> -->
   <img alt="Product Designer 6" src="charts/designer-6.png">
 </picture>
 
